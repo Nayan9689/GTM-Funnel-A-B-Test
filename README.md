@@ -92,6 +92,4 @@ This project showcases GTM-focused A/B testing and funnel analysis. It demonstra
 
 ---
 
-⚡ This README is long enough to stand out, but still concise and business-focused.  
 
-Do you want me to also draft a **shorter LinkedIn/Resume project description** (2–3 lines) so you can showcase it cleanly there?
